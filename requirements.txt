@@ -1,34 +1,9 @@
 requests
 selenium
-spacy 
-rdflib 
-numpy 
-scikit-learn 
-networkx 
-sentence-transformers
-matplotlib
-seaborn
 python-dotenv
-openai
-# Sentiment analysis dependencies
-vaderSentiment
 textblob
-# Optional: For transformer-based sentiment analysis
-# transformers
-# torch
-# Multimodal analysis dependencies
-Pillow
 requests
-# Optional: For enhanced graph embeddings (TransE, DistMult, ComplEx)
-# Optional: For semantic drift detection
-# umap-learn
-# bertopic
-# gensim
-google-generativeai
-# FastAPI dependencies
 fastapi
 uvicorn[standard]
 python-multipart
-# AWS S3 dependencies
-boto3
-pyngrok
+
